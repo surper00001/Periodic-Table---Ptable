@@ -1,0 +1,540 @@
+[
+    {
+      "Molecule ID": "mol-64060",
+      "Formula": "MgBr",
+      "SMILES": "Br[Mg]",
+      "Point Group": "CooV",
+      "Electron Affinity (eV)": 1.29,
+      "Ionization Energy (eV)": 6.03,
+      "Charge (+e)": 1
+    },
+    {
+      "Molecule ID": "mol-45827",
+      "Formula": "H5C110",
+      "SMILES": "C12=C3c4c5C(=O)C6=CC=CC=C6C(=C4)C=C3C=C2C(=C1)C=CC=C5",
+      "Point Group": "C5",
+      "Electron Affinity (eV)": 2.50,
+      "Ionization Energy (eV)": 4.80,
+      "Charge (+e)": 0
+    },
+    {
+      "Molecule ID": "mol-45553",
+      "Formula": "H5C10N(CIO)2",
+      "SMILES": "N1(c2cc(c(cc2)Cl)C(=O)O)C(=O)c3ccc(cc3)Cl",
+      "Point Group": "C1",
+      "Electron Affinity (eV)": 2.10,
+      "Ionization Energy (eV)": 5.20,
+      "Charge (+e)": 0
+    },
+    {
+      "Molecule ID": "mol-54330",
+      "Formula": "H17C9NO",
+      "SMILES": "N1C(CC(=O)CC1(C)C)C(C)(C)C",
+      "Point Group": "C5",
+      "Electron Affinity (eV)": 0.04,
+      "Ionization Energy (eV)": 4.41,
+      "Charge (+e)": 0
+    },
+    {
+      "Molecule ID": "mol-45750",
+      "Formula": "H4C5SN",
+      "SMILES": "c1(SSc2ncccc2)ncc(C)c1",
+      "Point Group": "C2",
+      "Electron Affinity (eV)": 1.99,
+      "Ionization Energy (eV)": 4.78,
+      "Charge (+e)": 0
+    },
+    {
+      "Molecule ID": "mol-45590",
+      "Formula": "H13C14N",
+      "SMILES": "c12N(c3c(Cc1cccc(C)c3)Cc4ccccc4)C",
+      "Point Group": "C5",
+      "Electron Affinity (eV)": -0.45,
+      "Ionization Energy (eV)": 3.70,
+      "Charge (+e)": 0
+    },
+    {
+      "Molecule ID": "mol-45873",
+      "Formula": "H13C14N",
+      "SMILES": "c12c(CCc3c(N1)cccc3)cccc2",
+      "Point Group": "C2",
+      "Electron Affinity (eV)": -0.53,
+      "Ionization Energy (eV)": 3.70,
+      "Charge (+e)": 0
+    },
+    {
+      "Molecule ID": "mol-45228",
+      "Formula": "H6C9N",
+      "SMILES": "c1(c2nc3c(cc2)ccc(C)c3)cccc1",
+      "Point Group": "C2h",
+      "Electron Affinity (eV)": 1.21,
+      "Ionization Energy (eV)": 4.85,
+      "Charge (+e)": 0
+    },
+    {
+      "Molecule ID": "mol-45478",
+      "Formula": "H7C4",
+      "SMILES": "C(C#CC(C)C)(C)C",
+      "Point Group": "C2",
+      "Electron Affinity (eV)": -0.77,
+      "Ionization Energy (eV)": 5.48,
+      "Charge (+e)": 0
+    },
+    {
+      "Molecule ID": "mol-55469",
+      "Formula": "HS7N",
+      "SMILES": "S1SSSNSSS1",
+      "Point Group": "C5",
+      "Electron Affinity (eV)": null,
+      "Ionization Energy (eV)": 4.90,
+      "Charge (+e)": 0
+    },
+    {
+      "Molecule ID": "mol-45767",
+      "Formula": "H10C5N",
+      "SMILES": "N1([C@@H]2CCC[C@@H]2)C(=O)c3ccccc3",
+      "Point Group": "C5",
+      "Electron Affinity (eV)": -1.01,
+      "Ionization Energy (eV)": 2.92,
+      "Charge (+e)": 0
+    },
+    {
+      "Molecule ID": "mol-45004",
+      "Formula": "H3C8NO5",
+      "SMILES": "c12c(C(=O)OC2=O)c(C(=O)O)c(O)c(O)c1",
+      "Point Group": "C1",
+      "Electron Affinity (eV)": 2.60,
+      "Ionization Energy (eV)": 6.63,
+      "Charge (+e)": 0
+    },
+    {
+      "Molecule ID": "mol-57278",
+      "Formula": "H15C19N",
+      "SMILES": "c12c3c(ccc1[N]c1ccc(cc3)cc1)cc(C)cc2",
+      "Point Group": "Cs",
+      "Electron Affinity (eV)": 1.09,
+      "Ionization Energy (eV)": 4.34,
+      "Charge (+e)": 0
+    },
+    {
+      "Molecule ID": "mol-54317",
+      "Formula": "H8C13NCI",
+      "SMILES": "c12c(c3c(nc1cccc2)cccc3)NC(=O)C",
+      "Point Group": "C2v",
+      "Electron Affinity (eV)": 1.51,
+      "Ionization Energy (eV)": 4.56,
+      "Charge (+e)": 0
+    },
+    {
+      "Molecule ID": "mol-45528",
+      "Formula": "H11C4N",
+      "SMILES": "[C@H](CC)(N)C",
+      "Point Group": "C1",
+      "Electron Affinity (eV)": -0.86,
+      "Ionization Energy (eV)": 4.72,
+      "Charge (+e)": 0
+    },
+    {
+        "Molecule ID": "mol-54318",
+        "Formula": "H9C4NO2",
+        "SMILES": "C(C(=O)O)C(C)(C)N",
+        "Point Group": "C1",
+        "Electron Affinity (eV)": 1.72,
+        "Ionization Energy (eV)": 5.89,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54319",
+        "Formula": "H8C6O2",
+        "SMILES": "C1(=CC=C(C=C1)C(=O)O)C",
+        "Point Group": "C2v",
+        "Electron Affinity (eV)": 1.88,
+        "Ionization Energy (eV)": 5.57,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54320",
+        "Formula": "H7C7N",
+        "SMILES": "N1=C(C=CC=C1)C2=CC=CC=C2",
+        "Point Group": "C2h",
+        "Electron Affinity (eV)": 1.67,
+        "Ionization Energy (eV)": 5.23,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54321",
+        "Formula": "H6C8O",
+        "SMILES": "C1(=CC=C(C=C1)C(=O)C2=CC=CC=C2)O",
+        "Point Group": "C2v",
+        "Electron Affinity (eV)": 1.95,
+        "Ionization Energy (eV)": 5.68,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54322",
+        "Formula": "H5C9N",
+        "SMILES": "N1=CC=C2C(=C1)=CC=CC2=C",
+        "Point Group": "D2h",
+        "Electron Affinity (eV)": 1.47,
+        "Ionization Energy (eV)": 5.02,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54323",
+        "Formula": "H4C10",
+        "SMILES": "C1=CC=C2C(=C1)=CC=CC2=C",
+        "Point Group": "D2h",
+        "Electron Affinity (eV)": 2.05,
+        "Ionization Energy (eV)": 4.95,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54324",
+        "Formula": "H3C11",
+        "SMILES": "C1=CC=C2C(=C1)=CC=C3C=CC=CC3=C2",
+        "Point Group": "D2h",
+        "Electron Affinity (eV)": 2.23,
+        "Ionization Energy (eV)": 4.79,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54325",
+        "Formula": "H2C12",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 2.31,
+        "Ionization Energy (eV)": 4.67,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54326",
+        "Formula": "HC13",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 2.39,
+        "Ionization Energy (eV)": 4.55,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54327",
+        "Formula": "H2C14",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 2.47,
+        "Ionization Energy (eV)": 4.43,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54328",
+        "Formula": "HC15",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 2.55,
+        "Ionization Energy (eV)": 4.31,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54329",
+        "Formula": "H16",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 2.63,
+        "Ionization Energy (eV)": 4.19,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54330",
+        "Formula": "H17C18",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 2.71,
+        "Ionization Energy (eV)": 4.07,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54331",
+        "Formula": "H18C19",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 2.79,
+        "Ionization Energy (eV)": 3.95,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54332",
+        "Formula": "H19C20",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 2.87,
+        "Ionization Energy (eV)": 3.83,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54333",
+        "Formula": "H20C21",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 2.95,
+        "Ionization Energy (eV)": 3.71,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54334",
+        "Formula": "H21C22",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 3.03,
+        "Ionization Energy (eV)": 3.59,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54335",
+        "Formula": "H22C23",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 3.11,
+        "Ionization Energy (eV)": 3.47,
+        "Charge (+e)": 0
+      },{
+        "Molecule ID": "mol-54336",
+        "Formula": "H23C24",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 3.19,
+        "Ionization Energy (eV)": 3.35,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54337",
+        "Formula": "H24C25",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 3.27,
+        "Ionization Energy (eV)": 3.23,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54338",
+        "Formula": "H25C26",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 3.35,
+        "Ionization Energy (eV)": 3.11,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54339",
+        "Formula": "H26C27",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 3.43,
+        "Ionization Energy (eV)": 2.99,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54340",
+        "Formula": "H27C28",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 3.51,
+        "Ionization Energy (eV)": 2.87,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54341",
+        "Formula": "H28C29",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 3.59,
+        "Ionization Energy (eV)": 2.75,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54342",
+        "Formula": "H29C30",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 3.67,
+        "Ionization Energy (eV)": 2.63,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54343",
+        "Formula": "H30C31",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 3.75,
+        "Ionization Energy (eV)": 2.51,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54344",
+        "Formula": "H31C32",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 3.83,
+        "Ionization Energy (eV)": 2.39,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54345",
+        "Formula": "H32C33",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 3.91,
+        "Ionization Energy (eV)": 2.27,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54346",
+        "Formula": "H33C34",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 3.99,
+        "Ionization Energy (eV)": 2.15,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54347",
+        "Formula": "H34C35",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 4.07,
+        "Ionization Energy (eV)": 2.03,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54348",
+        "Formula": "H35C36",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 4.15,
+        "Ionization Energy (eV)": 1.91,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54349",
+        "Formula": "H36C37",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 4.23,
+        "Ionization Energy (eV)": 1.79,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54350",
+        "Formula": "H37C38",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 4.31,
+        "Ionization Energy (eV)": 1.67,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54351",
+        "Formula": "H38C39",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 4.39,
+        "Ionization Energy (eV)": 1.55,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54352",
+        "Formula": "H39C40",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 4.47,
+        "Ionization Energy (eV)": 1.43,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54353",
+        "Formula": "H40C41",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 4.55,
+        "Ionization Energy (eV)": 1.31,
+        "Charge (+e)": 0
+      },{
+        "Molecule ID": "mol-54354",
+        "Formula": "H41C42",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 4.63,
+        "Ionization Energy (eV)": 1.19,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54355",
+        "Formula": "H42C43",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 4.71,
+        "Ionization Energy (eV)": 1.07,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54356",
+        "Formula": "H43C44",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 4.79,
+        "Ionization Energy (eV)": 0.95,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54357",
+        "Formula": "H44C45",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 4.87,
+        "Ionization Energy (eV)": 0.83,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54358",
+        "Formula": "H45C46",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 4.95,
+        "Ionization Energy (eV)": 0.71,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54359",
+        "Formula": "H46C47",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 5.03,
+        "Ionization Energy (eV)": 0.59,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54360",
+        "Formula": "H47C48",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 5.11,
+        "Ionization Energy (eV)": 0.47,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54361",
+        "Formula": "H48C49",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 5.19,
+        "Ionization Energy (eV)": 0.35,
+        "Charge (+e)": 0
+      },
+      {
+        "Molecule ID": "mol-54362",
+        "Formula": "H49C50",
+        "SMILES": "C1=CC=C2C=C3C=CC=CC3=CC2=C1",
+        "Point Group": "D6h",
+        "Electron Affinity (eV)": 5.27,
+        "Ionization Energy (eV)": 0.23,
+        "Charge (+e)": 0
+      }
+  ]
